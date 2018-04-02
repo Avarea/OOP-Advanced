@@ -1,0 +1,7 @@
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\bin\Debug\P01.Logger.exe.config
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\bin\Debug\P01.Logger.exe
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\bin\Debug\P01.Logger.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\obj\Debug\P01.Logger.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\obj\Debug\P01.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\obj\Debug\P01.Logger.exe
+C:\Users\Gzero\Desktop\OOP Advanced\SOLID\P01.Logger\obj\Debug\P01.Logger.pdb
