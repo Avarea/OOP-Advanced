@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.0\CustomList.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.0\CustomList.csprojResolveAssemblyReference.cache

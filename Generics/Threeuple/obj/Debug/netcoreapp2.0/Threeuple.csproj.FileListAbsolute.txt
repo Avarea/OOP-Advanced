@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.0\Threeuple.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.0\Threeuple.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.0\Threeuple.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.0\Threeuple.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.0\Threeuple.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.0\Threeuple.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.0\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.0\Threeuple.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.0\Threeuple.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.0\Threeuple.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.0\Threeuple.pdb

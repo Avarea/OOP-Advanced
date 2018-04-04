@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.0\GenericCountMethodStrings.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.0\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.0\GenericCountMethodStrings.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.0\GenericCountMethodStrings.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.0\GenericCountMethodStrings.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.0\GenericCountMethodStrings.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.0\GenericCountMethodStrings.pdb

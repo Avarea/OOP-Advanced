@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp2.0\GenericArrayCreator.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp2.0\GenericArrayCreator.pdb

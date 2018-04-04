@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp2.0\GenericBoxOfString.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp2.0\GenericBoxOfString.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp2.0\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp2.0\GenericBoxOfString.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp2.0\GenericBoxOfString.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp2.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp2.0\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp2.0\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp2.0\GenericBoxOfString.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp2.0\GenericBoxOfString.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp2.0\GenericBoxOfString.csprojResolveAssemblyReference.cache

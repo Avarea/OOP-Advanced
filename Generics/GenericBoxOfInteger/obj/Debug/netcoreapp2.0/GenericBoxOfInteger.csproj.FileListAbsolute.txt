@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp2.0\GenericBoxOfInteger.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp2.0\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp2.0\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp2.0\GenericBoxOfInteger.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\bin\Debug\netcoreapp2.0\GenericBoxOfInteger.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp2.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp2.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp2.0\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp2.0\GenericBoxOfInteger.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp2.0\GenericBoxOfInteger.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericBoxOfInteger\obj\Debug\netcoreapp2.0\GenericBoxOfInteger.csprojResolveAssemblyReference.cache

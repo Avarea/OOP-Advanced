@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\bin\Debug\netcoreapp2.0\Scale.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\bin\Debug\netcoreapp2.0\Scale.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\bin\Debug\netcoreapp2.0\Scale.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\bin\Debug\netcoreapp2.0\Scale.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\bin\Debug\netcoreapp2.0\Scale.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\obj\Debug\netcoreapp2.0\Scale.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\obj\Debug\netcoreapp2.0\Scale.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\obj\Debug\netcoreapp2.0\Scale.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\obj\Debug\netcoreapp2.0\Scale.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\obj\Debug\netcoreapp2.0\Scale.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\Scale\obj\Debug\netcoreapp2.0\Scale.pdb

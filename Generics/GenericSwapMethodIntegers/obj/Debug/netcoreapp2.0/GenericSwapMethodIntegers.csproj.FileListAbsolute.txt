@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.0\GenericSwapMethodIntegers.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.0\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.0\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.0\GenericSwapMethodIntegers.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.0\GenericSwapMethodIntegers.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.0\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.0\GenericSwapMethodIntegers.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.0\GenericSwapMethodIntegers.pdb

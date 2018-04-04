@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\bin\Debug\netcoreapp2.0\CustomListSorter.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\Generics\CustomListSorter\obj\Debug\netcoreapp2.0\CustomListSorter.pdb
