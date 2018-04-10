@@ -1,0 +1,55 @@
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\valch_000\Desktop\PROJECTS\C# Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+G:\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gzero\Desktop\OOP Basics\OOP-Basics\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\valch_000\Desktop\CODE\OOP Advanced\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+E:\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+E:\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+E:\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+E:\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+E:\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
