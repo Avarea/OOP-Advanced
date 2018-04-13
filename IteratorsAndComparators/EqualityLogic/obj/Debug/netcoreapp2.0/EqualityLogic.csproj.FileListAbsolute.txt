@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.0\EqualityLogic.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.0\EqualityLogic.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.0\EqualityLogic.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.0\EqualityLogic.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.0\EqualityLogic.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.0\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.0\EqualityLogic.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.0\EqualityLogic.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.0\EqualityLogic.pdb

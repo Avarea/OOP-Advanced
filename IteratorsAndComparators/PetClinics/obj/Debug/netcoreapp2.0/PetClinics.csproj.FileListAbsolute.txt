@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\bin\Debug\netcoreapp2.0\PetClinics.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\PetClinics\obj\Debug\netcoreapp2.0\PetClinics.pdb

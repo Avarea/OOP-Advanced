@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BashSoft\\BashSoft\\BashSoft.csproj",
+      "projectUniqueName": "C:\\Users\\Gzero\\Desktop\\OOP Advanced\\OOP-Advanced\\BashSoft\\BashSoft.csproj",
       "projectName": "BashSoft",
-      "projectPath": "E:\\BashSoft\\BashSoft\\BashSoft.csproj",
+      "projectPath": "C:\\Users\\Gzero\\Desktop\\OOP Advanced\\OOP-Advanced\\BashSoft\\BashSoft.csproj",
       "packagesPath": "C:\\Users\\Gzero\\.nuget\\packages\\",
-      "outputPath": "E:\\BashSoft\\BashSoft\\obj\\",
+      "outputPath": "C:\\Users\\Gzero\\Desktop\\OOP Advanced\\OOP-Advanced\\BashSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

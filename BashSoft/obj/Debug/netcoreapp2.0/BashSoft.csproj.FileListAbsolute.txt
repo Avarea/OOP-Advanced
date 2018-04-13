@@ -53,3 +53,14 @@ E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
 E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
 E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
 E:\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.csprojResolveAssemblyReference.cache

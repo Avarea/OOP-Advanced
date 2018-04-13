@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.0\ComparableBook.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.0\ComparableBook.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.0\ComparableBook.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.0\ComparableBook.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\bin\Debug\netcoreapp2.0\ComparableBook.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.0\ComparableBook.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.0\ComparableBook.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.0\ComparableBook.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.0\ComparableBook.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.0\ComparableBook.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparableBook\obj\Debug\netcoreapp2.0\ComparableBook.pdb

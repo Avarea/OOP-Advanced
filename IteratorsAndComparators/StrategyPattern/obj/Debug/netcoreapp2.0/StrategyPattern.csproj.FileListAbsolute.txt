@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb

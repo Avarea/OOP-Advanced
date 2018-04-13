@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.csprojResolveAssemblyReference.cache

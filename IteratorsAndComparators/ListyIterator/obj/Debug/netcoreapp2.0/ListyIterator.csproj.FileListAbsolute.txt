@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.pdb
