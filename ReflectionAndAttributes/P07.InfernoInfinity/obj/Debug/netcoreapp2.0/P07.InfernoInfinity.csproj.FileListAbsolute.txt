@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\obj\Debug\netcoreapp2.0\P07.InfernoInfinity.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\obj\Debug\netcoreapp2.0\P07.InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\obj\Debug\netcoreapp2.0\P07.InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\obj\Debug\netcoreapp2.0\P07.InfernoInfinity.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\bin\Debug\netcoreapp2.0\P07.InfernoInfinity.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\bin\Debug\netcoreapp2.0\P07.InfernoInfinity.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\bin\Debug\netcoreapp2.0\P07.InfernoInfinity.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\bin\Debug\netcoreapp2.0\P07.InfernoInfinity.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\bin\Debug\netcoreapp2.0\P07.InfernoInfinity.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\obj\Debug\netcoreapp2.0\P07.InfernoInfinity.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P07.InfernoInfinity\obj\Debug\netcoreapp2.0\P07.InfernoInfinity.pdb

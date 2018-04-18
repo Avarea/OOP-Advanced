@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\bin\Debug\netcoreapp2.0\P06_TrafficLights.deps.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\bin\Debug\netcoreapp2.0\P06_TrafficLights.runtimeconfig.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\bin\Debug\netcoreapp2.0\P06_TrafficLights.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\bin\Debug\netcoreapp2.0\P06_TrafficLights.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\bin\Debug\netcoreapp2.0\P06_TrafficLights.pdb
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\obj\Debug\netcoreapp2.0\P06_TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\obj\Debug\netcoreapp2.0\P06_TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\obj\Debug\netcoreapp2.0\P06_TrafficLights.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\obj\Debug\netcoreapp2.0\P06_TrafficLights.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\obj\Debug\netcoreapp2.0\P06_TrafficLights.dll
+C:\Users\Gzero\Desktop\OOP Advanced\OOP-Advanced\ReflectionAndAttributes\P06_TrafficLights\obj\Debug\netcoreapp2.0\P06_TrafficLights.pdb
